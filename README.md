@@ -6,6 +6,3 @@ How to run the program:
 * python main.py
 * Select the squares on which you want to put a queen
 * Press space to see the solution
-
-![First Image](https://github.com/RamtinTJB/8-Queen-Python/blob/master/Images/img1.png) ![Second Image](https://github.com/RamtinTJB/8-Queen-Python/blob/master/Images/img2.png) 
-![Third Image](https://github.com/RamtinTJB/8-Queen-Python/blob/master/Images/img3.png)
