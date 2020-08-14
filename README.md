@@ -1,5 +1,6 @@
 # 8-Queen-Python
-Solving 8 queen puzzle with python and pygame using backtrack algorithm. you can also put some queens on the board before starting the solving process but not all starting positions have solution. just click on the squares to put the queens and when you are ready press space to see the solution
+The eight queen puzzle is the problem of placing eight chess queens on an 8x8 chess board so that no two queens threaten each other. Thus, a solution requires that no two queens share the same row, column, or diagonal. This is a basic implementation for solving the puzzle by using backtracking algorithm.
 
-# Requirements
-I ran this project with python 3.6 and pygame
+![First Image](https://github.com/RamtinTJB/8-Queen-Python/Images/img1.png)
+![Second Image](https://github.com/RamtinTJB/8-Queen-Python/Images/img2.png)
+![Third Image](https://github.com/RamtinTJB/8-Queen-Python/Images/img3.png)
